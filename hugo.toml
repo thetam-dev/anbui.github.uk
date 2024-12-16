@@ -1,4 +1,4 @@
-baseURL = 'https://thetam-dev.github.io/anbui.github.uk/'
-languageCode = 'en-us'
+baseURL = 'https://thetam-dev.github.io/'
+languageCode = 'vn-us'
 title = 'An Bui'
 theme = 'newsroom'

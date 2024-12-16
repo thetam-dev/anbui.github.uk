@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>An Bui</title>
-    <link>http://localhost:36171/anbui.github.uk/</link>
+    <link>http://localhost:36171/</link>
     <description>Recent content on An Bui</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>vn-us</language>
     <lastBuildDate>Mon, 16 Dec 2024 12:52:13 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36171/anbui.github.uk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36171/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anbui</title>
-      <link>http://localhost:36171/anbui.github.uk/post/anbui/</link>
+      <link>http://localhost:36171/post/anbui/</link>
       <pubDate>Mon, 16 Dec 2024 12:52:13 +0000</pubDate>
-      <guid>http://localhost:36171/anbui.github.uk/post/anbui/</guid>
+      <guid>http://localhost:36171/post/anbui/</guid>
       <description>How to install termux on f-droid&#xA;step 1 go to the chrome in android&#xA;step 2 search f-droid and visit now&#xA;step 3 search the key type termux&#xA;step 4 click download and install termux apk and use&#xA;thank you</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:36171/anbui.github.uk/</loc>
+    <loc>http://localhost:36171/</loc>
     <lastmod>2024-12-16T12:52:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:36171/anbui.github.uk/post/anbui/</loc>
+    <loc>http://localhost:36171/post/anbui/</loc>
     <lastmod>2024-12-16T12:52:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:36171/anbui.github.uk/post/</loc>
+    <loc>http://localhost:36171/post/</loc>
     <lastmod>2024-12-16T12:52:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:36171/anbui.github.uk/categories/</loc>
+    <loc>http://localhost:36171/categories/</loc>
   </url><url>
-    <loc>http://localhost:36171/anbui.github.uk/tags/</loc>
+    <loc>http://localhost:36171/tags/</loc>
   </url>
 </urlset>
