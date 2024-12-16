@@ -6,8 +6,15 @@
     <description>Recent content on An Bui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vn-us</language>
-    <lastBuildDate>Mon, 16 Dec 2024 12:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 13:16:21 +0000</lastBuildDate>
     <atom:link href="http://localhost:36171/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:36171/contact-us/</link>
+      <pubDate>Mon, 16 Dec 2024 13:16:21 +0000</pubDate>
+      <guid>http://localhost:36171/contact-us/</guid>
+      <description>Your ca join to the youtube now</description>
+    </item>
     <item>
       <title>Anbui</title>
       <link>http://localhost:36171/post/anbui/</link>
